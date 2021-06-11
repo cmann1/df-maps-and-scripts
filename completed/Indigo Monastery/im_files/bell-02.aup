@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="bell-02_data" version="1.3.0" audacityversion="2.1.3" sel0="0.0000000000" sel1="8.7877083333" vpos="0" h="0.0000000000" zoom="199.7107702520" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="Software" value="Lavf57.11.100"/>
+	</tags>
+	<wavetrack name="341866__edsward__churchbellkonstanz" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="421810">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cd0.au" len="181485" min="-0.612122" max="0.651459" rms="0.106046"/>
+				</waveblock>
+				<waveblock start="181485">
+					<simpleblockfile filename="e0000c63.au" len="240325" min="-0.12265" max="0.121582" rms="0.036745"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="341866__edsward__churchbellkonstanz" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="421810">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000086.au" len="181485" min="-0.612122" max="0.651459" rms="0.106046"/>
+				</waveblock>
+				<waveblock start="181485">
+					<simpleblockfile filename="e0000cc5.au" len="240325" min="-0.122681" max="0.121613" rms="0.036745"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

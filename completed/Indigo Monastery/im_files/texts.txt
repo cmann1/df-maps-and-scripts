@@ -1,0 +1,119 @@
+-------------------------------------------------------------------------------------
+Library
+-------------------------------------------------------------------------------------
+[INVENTORY]
+Some sort of inventory, it reads:
+ 12 bushels wheat
+ 8 sacks rice
+ 12 stone blocks
+ 3 apples
+
+[CONSTRUCTION LOG]
+Day 21
+ Construction of new wing ahead of schedule.
+Day 22
+ Materials running low, will need to visit town to buy more.
+Day 25
+ Hit an underground reservoir. Work progressed slowly.
+Day 26
+  Almost done w"/\}..
+  
+(The rest is too damaged to make out)
+
+[MISC 1]
+A random assortment of books, most written
+in a language I don't recognise.
+
+[MISC 2]
+A scroll, in very good condition; it has many
+vivid illustrations detailing the correct way
+to store, clean, and don monasterial garb.
+
+[POEM 1]
+A book of poems, someone has scribbled
+illegible notes next to this one:
+
+  A fleeting moment
+  A brief glimmer in the dark
+  Indigo light shines
+
+Blackness without end
+A brief glimmer in the dark
+Indigo light shines
+
+Cold wind from below
+The indigo light wavers
+A silence pervades
+
+Dark shadows held back
+Life reaches towards the light
+Indigo blossoms
+	
+	<<<<
+	(5)
+	Blackness without end
+	Indigo light shines
+	A fleeting moment
+	Everything ends
+
+	(7)
+	A brief glimmer in the dark
+	The indigo light wavers
+	Life reaches towards the light
+	>>>>
+
+ >>
+ 
+[POEM 2]
+An Anthology of Poems - Volume II
+
+  Slowly taking root
+  Reaching towards the light
+  Indigo blossoms
+
+
+ 
+
+[R 1]
+One should single-mindedly cultivate a pure mind,
+set body and mind upright, and eradicate desire
+and eliminate worry.
+One should maintain a compassionate mind and make
+focused and diligent progress.
+One should not be angry or jealous or be gluttonous
+or stingy.
+One should not have regret halfway or have doubts.
+One should be filial, have utmost sincerity, be loyal,
+and be trustworthy. 
+
+[R 2]
+As to the mind itself, it is immaterial, unknowable,
+andungraspable. It is nothing but a collection of
+phenomena, transient and delusive by nature.
+
+[R 3]
+Between heaven and earth, the Five Paths are separate
+and distinct. Good retribution, bad retribution,
+good fortune, and misfortune intermingle continually
+with one another.
+One has to bear them alone. No one else can take
+one’s place.
+
+
+
+[HISTORY 1]
+[HISTORY 2]
+[HISTORY 3]
+
+
+-------------------------------------------------------------------------------------
+Other
+-------------------------------------------------------------------------------------
+[APPLEMAN]
+Poor guy, he's not right in the head, but we look after him
+as best as we can.
+He just walked into town one day, started smashing up all the
+apples he could get his hands on.
+
+We're not sure what's wrong with him, but the apples at least
+seem to make him happy so we'll throw one in every now and then.

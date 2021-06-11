@@ -1,0 +1,25 @@
+Level
+-----------------------------------------------------
+None:
+	Landfill			
+	Vacant Lot			
+	Ab. Carpark			
+	Development			
+
+Bronze:
+	Warehouse			
+	Construction Site	
+	Park				
+	Apartments			
+
+Silver:
+	Scaffold			
+	Rooftops			
+	For. Tunnel			
+	Basement			
+
+Gold:
+	Clocktower			
+	Alleyway			
+	Hideout				
+	Conc. Temple	
