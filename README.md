@@ -1,4 +1,4 @@
-All of my completed maps, including all scripts, images, and audio files.
+All of my [completed maps](https://atlas.dustforce.com/user/C), including all scripts, images, and audio files.
 Also includes plugins and some WIP stuff.
 
 
