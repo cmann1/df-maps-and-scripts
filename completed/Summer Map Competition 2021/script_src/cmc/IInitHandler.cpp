@@ -1,0 +1,6 @@
+interface IInitHandler
+{
+	
+	void init();
+	
+}
