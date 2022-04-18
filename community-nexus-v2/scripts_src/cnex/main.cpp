@@ -1,6 +1,6 @@
-#include '../common-old/AnimatedSpriteBatch.cpp'
-#include '../common-old/SpriteBatch.cpp'
-#include '../common-old/date.cpp'
+#include 'lib/AnimatedSpriteBatch.cpp'
+#include 'lib/SpriteBatch.cpp'
+#include 'lib/date.cpp'
 #include 'MainTrigger.cpp'
 
 class script
