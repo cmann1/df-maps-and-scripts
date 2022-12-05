@@ -3,6 +3,7 @@
 # Un-ignore all of subtree
 !.gitignore
 !README.md
+!LICENSE.md
 !/collab/
 !/community-nexus-v1/
 !/community-nexus-v2/
