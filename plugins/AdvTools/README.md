@@ -12,7 +12,7 @@ along with a sample `advtools.ini` for a list of possible config values and how 
 
 ## Snapping
 - Hold any of the `Ctrl/Shift/Alt` modifier keys to snap values while performing certain actions
-- Generaly the snapping for each modifier respectively is:
+- Generally the snapping for each modifier respectively is:
     - Position: `48/24/5px`
     - Rotation: `45/22.5/5deg`
 
