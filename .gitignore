@@ -1,5 +1,6 @@
 # Ignore everything in the root
 /*
+/dlc/*
 # Un-ignore all of subtree
 !.gitignore
 !README.md
@@ -9,6 +10,8 @@
 !/community-nexus-v2/
 !/completed/
 !/darkforce/
+!/dlc/
+!/dlc/dlc-art-sample/
 !/plugins/
 !/script_src/
 !/scripts-old/
